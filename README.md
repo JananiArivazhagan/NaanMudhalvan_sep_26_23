@@ -2,7 +2,7 @@ Predicting IMDb Scores
 Project Title: IMDb Score Prediction
 Problem Statement: Develop a machine learning model to predict the IMDb scores of movies available on Films based on their genre, premiere date, runtime, and language. The model aims to accurately estimate the popularity of movies to assist users in discovering highly rated films that align with their preferences.
 Project Steps
-Phase 1: Problem Definition and Design Thinking
+ Problem Definition and Design Thinking
 Problem Definition: The problem is to develop a machine learning model that predicts IMDb scores of movies available on Films based on features like genre, premiere date, runtime, and language. The objective is to create a model that accurately estimates the popularity of movies, helping users discover highly rated films that match their preferences. This project involves data preprocessing, feature engineering, model selection, training, and evaluation.
 Design Thinking:
 1. Data Source: Utilize a dataset containing information about movies, including features like genre, premiere date, runtime, language, and IMDb scores.
